@@ -1,7 +1,8 @@
 # Identidade Fora da Caixa
 
-Landing page do workshop com Jacke Santos.
+Workshop com Jacke Santos.
 
-Cloudflare Pages: branch main, framework None, no build command, output directory dist.
+## Cloudflare Pages
 
-Static HTML and assets in dist/. Checkout link pending.
+Production branch: main\nFramework preset: None\nBuild command: leave empty\nBuild output directory: dist\n
+Static site, no dependencies. Current CTA links to event details; checkout URL pending.
